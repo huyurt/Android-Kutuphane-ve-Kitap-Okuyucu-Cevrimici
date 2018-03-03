@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_kitaplar"
+            android:icon="@drawable/ic_menu_kitaplar"
+            android:title="@string/activity_main_drawer1"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_favoriler"
+            android:icon="@drawable/ic_menu_favoriler"
+            android:title="@string/activity_main_drawer2"/>
+        <item
+            android:id="@+id/nav_kutuphane"
+            android:icon="@drawable/ic_menu_kutuphane"
+            android:title="@string/activity_main_drawer3"/>
+        <item
+            android:id="@+id/nav_okuyucular"
+            android:icon="@drawable/ic_menu_okuyucular"
+            android:title="@string/activity_main_drawer4"/>
+    </group>
+<!--
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_favoriler"
+                android:title="Share"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_favoriler"
+                android:title="Send"/>
+        </menu>
+    </item>
+-->
+</menu>

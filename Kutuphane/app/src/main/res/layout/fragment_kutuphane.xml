@@ -1,0 +1,103 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="layout.Kutuphane"
+    android:background="@color/colorBackground">
+
+    <TabHost
+        android:id="@+id/tabHostKutuphane"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:theme="@style/TabHostTheme">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"/>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recycler_viewKutuphane"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scrollbars="vertical"
+                    android:visibility="gone"/>
+
+                <ListView
+                    android:id="@+id/listViewKutuphaneYazar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:choiceMode="multipleChoice"/>
+
+                <ListView
+                    android:id="@+id/listViewKutuphaneKategori"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:choiceMode="multipleChoice"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </TabHost>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutProgressBarKutuphane"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBackground">
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Large"
+            android:layout_centerInParent="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutKutuphaneUyari"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBackground"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/textViewUyariKutuphane"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kutuphane_internet_yok"
+            android:textColor="@color/splashScreenTextColor"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:padding="10dp"/>
+
+        <Button
+            android:id="@+id/buttonUyariKutuphane"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:layout_below="@+id/textViewUyariKutuphane"
+            android:layout_centerInParent="true"
+            android:textColor="@color/mainTextColor"
+            android:text="@string/fragment_kutuphane3"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textAllCaps="false"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

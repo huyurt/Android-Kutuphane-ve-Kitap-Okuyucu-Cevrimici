@@ -1,0 +1,38 @@
+<resources>
+
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="Base.ThemeOverlay.AppCompat.Dark"/>
+
+    <style name="SwitchTheme" parent="Base.Theme.AppCompat.Light">
+        <item name="android:colorControlActivated">@color/radioButtonColor</item>
+    </style>
+
+    <style name="TabHostTheme">
+        <item name="android:textColor">@color/mainTextColor</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="ProgressDialog" parent="Theme.AppCompat.DayNight.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/colorBackground</item>
+        <item name="android:textColor">@color/mainTextColor</item>
+        <item name="android:textColorPrimary">@color/mainTextColor</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+</resources>

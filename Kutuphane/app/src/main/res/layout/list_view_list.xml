@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp">
+
+    <Button
+        android:id="@+id/buttonReadListViewGeriAl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="?attr/selectableItemBackground"
+        android:textAllCaps="false"
+        android:textColor="@color/mainTextColor"
+        android:gravity="left|center_vertical"
+        android:longClickable="false"/>
+
+</TableLayout>

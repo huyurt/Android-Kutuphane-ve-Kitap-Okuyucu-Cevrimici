@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kutuphane.com.kutuphane.IstatistiklerActivity"
+    android:background="@color/colorBackground"
+    android:paddingTop="15dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="15dp"
+    android:paddingLeft="10dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textViewIstatistikler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/mainTextColor"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="10dp"/>
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButtonIstatistikler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:padding="5dp"
+        android:src="@drawable/ic_clear_white_24dp"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:longClickable="false"/>
+
+</RelativeLayout>

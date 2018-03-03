@@ -1,0 +1,53 @@
+﻿<html>
+<head>
+    <style>
+		body {
+			background-color: #252525;
+			color: #dddddd;
+		}
+        div {
+            margin: 5px;
+            text-align: center;
+        }
+        .mesaj div{
+            text-align: justify;
+        }
+        .uyari div{
+##            display: none;
+			text-align: justify;
+        }
+		a {
+			color: #dddddd;
+		}
+		a:visited {
+			color: #dddddd;
+		}
+    </style>
+    <script type="text/javascript">
+        function toggle_visibility(id) {
+            var e = document.getElementById(id);
+            if(e.style.display === 'block') {
+                e.style.display = 'none';
+            } else {
+                e.style.display = 'block';
+            }
+        }
+    </script>
+</head>
+<body>
+<div class="mesaj" style="margin-top:25px; margin-bottom:25px">
+    <div>
+        <p>İstek, şikayet, hata bildirimi veya UYGULAMA İÇERİĞİNE KATKI SAĞLAMAK için aşağıdaki e-mail adresinden iletişime geçebilirsiniz.</p>
+        <p>UYGULAMA, ÜCRETSİZ SUNUCU KULLANDIĞI İÇİN SUNUCU ÇEVRİMDIŞI OLABİLİR.</p>
+    </div>
+</div>
+<div class="uyari">
+<!--    <a href="#" onclick="toggle_visibility('uyariAlt');">Yasal Uyarı</a> -->
+    <a href="#">Yasal Uyarı</a>
+    <div id="uyariAlt">
+        <p>Bu uygulama, 5651 sayılı yasada tanımlanan "yer sağlayıcı" olarak hizmet vermektedir. Bu uygulamada bulunan tüm kaynaklar internetten sağlanmıştır ve hiç bir şekilde uygulamada barınmamaktadır. İlgili yasaya göre, uygulama geliştiricisinin hukuka aykırı içerikleri kontrol etme yükümlülüğü yoktur. Telif hakkına konu olan eserlerin yasal olmayan bir biçimde paylaşıldığını, yasal hakların çiğnendiğini, Türkiye Cumhuriyeti kanunlarına aykırı herhangi bir içeriğin bulunduğunu düşünüyorsanız aşağıdaki e-mail adresinden iletişime geçebilirsiniz. Bu uygulamayı kullanarak her türlü sorumluluğu kabul etmiş sayılırsınız.</p>
+        <p>Bu uygulama, okuyucuların kitaba erişimini kolaylaştırabilmek, ülkemizin düşük okuma oranını arttırabilmek amacıyla geliştirildi. Herhangi bir içerikten dolayı maddi kazanç söz konusu değildir. Beğendiğiniz, takip ettiğiniz yazar veya kitap varsa, kitabı satın alarak yazara destek olun.</p>
+    </div>
+</div>
+</body>
+</html>

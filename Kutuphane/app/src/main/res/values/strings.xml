@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Kütüphane</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings_search">Ara</string>
+    <string name="action_settings_sort">Düzenle</string>
+    <string name="action_settings1">Ayarlar</string>
+    <string name="action_settings2">Güncelle</string>
+    <string name="action_settings3">İstatistikler</string>
+    <string name="action_settings4">İletişim</string>
+
+    <string name="activity_main_drawer1">Kitaplık</string>
+    <string name="activity_main_drawer2">Favoriler</string>
+    <string name="activity_main_drawer3">Kütüphane</string>
+    <string name="activity_main_drawer4">Kitap Okuyucular</string>
+
+    <string name="splash_screen_font">fonts/fontSplashScreen.ttf</string>
+    <string name="splash_screen_name">kütüphane</string>
+
+    <string name="dosya_yolu1">kutuphane.com.kutuphane</string>
+    <string name="dosya_adi1">Kütüphane</string>
+    <string name="dosya_adi2">Zaman</string>
+
+    <string name="shared_preference1">sharedPreferenceKütüphane</string>
+    <string name="shared_preference2">sharedPreferenceZaman</string>
+
+    <string name="menu_card_view1">Oku</string>
+    <string name="menu_card_view2">Bilgiler</string>
+    <string name="menu_card_view3">Kitaplığa Ekle</string>
+    <string name="menu_card_view4">Favorilere Ekle</string>
+    <string name="menu_card_view5">Kitaplıktan Kaldır</string>
+    <string name="menu_card_view6">Favorilerden Kaldır</string>
+    <string name="menu_card_view7">Sil</string>
+    <string name="menu_card_view8">Gözat</string>
+
+    <string name="activity_detail_text_view4">Kategori:</string>
+    <string name="activity_detail_button1">Oku</string>
+    <string name="activity_detail_button2">Sil</string>
+    <string name="activity_detail_button3">Ekle</string>
+    <string name="activity_detail_button4">Kaldır</string>
+
+    <string name="fragment_kutuphane1">Yeni versiyon indiriliyor.</string>
+    <string name="fragment_kutuphane2">Yükleniyor&#8230;</string>
+    <string name="fragment_kutuphane3">Yeniden Dene</string>
+    <string name="fragment_kutuphane4">Yükleniyor</string>
+    <string name="kutuphane_internet_yok">İnternet bağlantısını kontrol edin veya sunucu çevrimdışı.</string>
+    <string name="fragment_kitap_yok">Henüz Kitap Eklemediniz</string>
+
+    <string name="sort_sirala">Şuna göre sırala</string>
+    <string name="sort_radioButton1">Ekleme Tarihi</string>
+    <string name="sort_radioButton2">Kitap Adı</string>
+    <string name="sort_radioButton3">Yazar Adı</string>
+    <string name="sort_switch1">Azalan</string>
+    <string name="sort_switch2">Artan</string>
+    <string name="sort_recyclerViewType">Kitaplık Türü</string>
+
+
+
+    <string name="activity_read_button0">Geri Al</string>
+    <string name="activity_read_button1">Ekranı Döndür</string>
+    <string name="activity_read_button2">Temayı Değiştir</string>
+    <string name="activity_read_button3">Seslendir</string>
+    <string name="activity_read_button4">Sitili Değiştir</string>
+    <string name="activity_read_button5">Ayraçlar</string>
+    <string name="activity_read_button6">Notlar</string>
+    <string name="activity_read_button7">İçindekiler</string>
+    <string name="activity_read_toolbar1">Ara</string>
+
+    <string name="activity_read_tema1">Sıfırla</string>
+
+    <string name="activity_read_seslendir1">Hız</string>
+    <string name="activity_read_seslendir2">Perde</string>
+    <string name="activity_read_seslendir_button1">Geri</string>
+    <string name="activity_read_seslendir_button2_1">Başlat</string>
+    <string name="activity_read_seslendir_button2_2">Duraklat</string>
+    <string name="activity_read_seslendir_button3">İleri</string>
+    <string name="activity_read_seslendir_button4">Durdur</string>
+    <string name="activity_read_seslendir_button5">Kapat</string>
+    <string name="activity_read_seslendir_button6">Ayarlar</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuCardView1"
+        android:title="@string/menu_card_view1"/>
+
+    <item
+        android:id="@+id/menuCardView2"
+        android:title="@string/menu_card_view2"/>
+
+    <item
+        android:id="@+id/menuCardView3"
+        android:title="@string/menu_card_view3"/>
+
+    <item
+        android:id="@+id/menuCardView4"
+        android:title="@string/menu_card_view4"/>
+
+    <item
+        android:id="@+id/menuCardView5"
+        android:title="@string/menu_card_view7"/>
+
+    <item
+        android:id="@+id/menuCardView6"
+        android:title="@string/menu_card_view8"/>
+
+</menu>

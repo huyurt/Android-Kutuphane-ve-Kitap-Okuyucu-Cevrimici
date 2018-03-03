@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="kutuphane.com.kutuphane.MainActivity">
+    <item
+        android:id="@+id/action_settings1"
+        android:title="@string/action_settings1"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/options_menu_ayarlar"/>
+    <item
+        android:id="@+id/action_settings2"
+        android:title="@string/action_settings2"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/options_menu_guncelle"/>
+    <item
+        android:id="@+id/action_settings3"
+        android:title="@string/action_settings3"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/options_menu_istatistikler"/>
+    <item
+        android:id="@+id/action_settings4"
+        android:title="@string/action_settings4"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/options_menu_iletisim"/>
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="@string/action_settings_search"
+        app:showAsAction="collapseActionView|always"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/ic_sort_white_24dp"
+        android:title="@string/action_settings_sort"
+        app:showAsAction="always"/>
+
+</menu>

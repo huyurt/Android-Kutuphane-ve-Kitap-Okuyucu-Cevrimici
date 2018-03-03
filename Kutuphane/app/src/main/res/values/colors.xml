@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151515</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorBackground">#252525</color>
+    <color name="colorBackgroundTransparent">#E0252525</color>
+
+    <color name="splashScreenBackground">#000000</color>
+    <color name="splashScreenTextColor">#DDDDDD</color>
+
+    <color name="mainTextColor">#DDDDDD</color>
+
+    <color name="cardViewTextViewBackground">#D0000000</color>
+    <color name="cardViewImageButtonBackground">#00000000</color>
+
+    <color name="radioButtonColor">#148E13</color>
+
+    <color name="transparent">#00000000</color>
+
+</resources>
