@@ -40,6 +40,6 @@ Kitap okuyucusunun şu anki özellikleri :
 ![alt text](https://4.bp.blogspot.com/-LRVu4S1gDNY/Wpr4ZnahE-I/AAAAAAAAAIM/fsBMS9vZ8so8R7KYs333ifK4jB6HhR4iwCLcBGAs/s320/11.png)
 ![alt text](https://1.bp.blogspot.com/-yQf87n5Dr5U/WpsBWpTQ-9I/AAAAAAAAAJ4/JxixgWnQNawmeI7Ot9gz5mN74GDpHABiwCLcBGAs/s320/18.png)
 ![alt text](https://1.bp.blogspot.com/-5G5J_NUr-gQ/Wpr4eAGz6LI/AAAAAAAAAIY/e9GMct33P2Qqxs6y4yzHbcRgT90teUMxACLcBGAs/s320/13.png)
-![alt text](https://2.bp.blogspot.com/-MN9edQN5SoU/Wpr4ev-YqoI/AAAAAAAAAIc/6qvcpBzoVaoTkfs6oLPoy-r_Shs7_NW3gCLcBGAs/s320/14.png)
 ![alt text](https://3.bp.blogspot.com/-fohHZnsoeKA/Wpr-Who2AXI/AAAAAAAAAJg/v3DWMFZndAgF_JPTkUcNYKQ_h6T9vme7ACLcBGAs/s320/16.png)
+![alt text](https://2.bp.blogspot.com/-MN9edQN5SoU/Wpr4ev-YqoI/AAAAAAAAAIc/6qvcpBzoVaoTkfs6oLPoy-r_Shs7_NW3gCLcBGAs/s320/14.png)
 ![alt text](https://4.bp.blogspot.com/-3opCgbYgvy4/Wpr_k8V0F1I/AAAAAAAAAJs/dRbf4KPLL5ICjuIqBz-EULZWY8uTNMpOQCLcBGAs/s320/17.png)
