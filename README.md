@@ -29,6 +29,7 @@ Kitap okuyucusunun özellikleri :
 ![alt text](https://4.bp.blogspot.com/-13fGqajRmNM/Wpr4qpA8vUI/AAAAAAAAAIg/ErarxIukeGYvBu3WA7kKpQRQvLdhlGq-QCLcBGAs/s320/4.png)
 ![alt text](https://1.bp.blogspot.com/-ok2sWCFZmX0/Wpr4xlzoVjI/AAAAAAAAAI0/LyoBrZwn4-sTcvneur9hGX2C1f7KCz3fgCLcBGAs/s320/5.png)
 ![alt text](https://1.bp.blogspot.com/-5CcUw2QIKl4/Wpr4uI4J-bI/AAAAAAAAAIo/r3asML2h6GMgvzqzdk3tysb4MA6AKujagCLcBGAs/s320/6.png)
+![alt text](https://2.bp.blogspot.com/-ncBiQIuUW78/WpsEBONh_OI/AAAAAAAAAKE/rtSq2D77SoE-U6xPYDFN1iZ4rmZdGbqjQCLcBGAs/s320/19.png)
 ![alt text](https://4.bp.blogspot.com/-MlXilDboobk/Wpr9o8FKoTI/AAAAAAAAAJY/y8YSfLlcq_o67wORlCtUnUNwIla3ZL5lwCLcBGAs/s320/15.png)
 ![alt text](https://1.bp.blogspot.com/-DxmS575ZQJ0/Wpr415EzN1I/AAAAAAAAAI4/D0CbY6HlY3I76GqDkya45stw8YD2ftHUwCLcBGAs/s320/8.png)
 ![alt text](https://3.bp.blogspot.com/-kESi-6pH8kc/Wpr45p7hxmI/AAAAAAAAAJA/CanPRP-B6OEEc2WjM_zm2wlKZDIN_RwuACLcBGAs/s320/9.png)
