@@ -6,7 +6,7 @@ Java, Php, Sql, Javascript (2018) v0.2
 
 _Not: Uygulama, ücretsiz sunucu hesabı üzerinde çalıştığı için sunucu bazen çevrimdışı olabilir; uygulama veya uygulamanın bazı özellikleri zaman zaman kullanım dışı olabilir._
 
-_Not 2: openload.co sitesi Türkiye'de erişime engellendiği için kitap indirme şuan aktif değil. Kitaba, uygulamanın kendi okuyucusundan erişilebilir._
+_Not 2: openload.co sitesi Türkiye'de erişime engellendiği için kitap indirme şu an aktif değil. Kitaba, uygulamanın kendi okuyucusundan erişilebilir._
 
 Uygulamanın ana activity'si kitaplık, favoriler, kütüphane ve kitap okuyucular olmak üzere dört fragmentten oluşuyor.
 Kitaplık ve favoriler, kullanıcının istediği kitapları takip edebildiği alanlardır.
