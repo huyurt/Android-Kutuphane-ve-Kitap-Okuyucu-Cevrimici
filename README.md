@@ -4,24 +4,25 @@ Java, Php, Sql, Javascript (2018) v0.2
 
 * [android için apk v0.2](http://bit.ly/2FjnIE5)
 
-_Not: Uygulama, ücretsiz sunucu hesabı üzerinde çalıştığı için sunucu bazen çevrimdışı olabilir; uygulama veya uygulamanın bazı özellikleri kullanım dışı olabilir._
+_Not: Uygulama, ücretsiz sunucu hesabı üzerinde çalıştığı için sunucu bazen çevrimdışı olabilir; uygulama veya uygulamanın bazı özellikleri zaman zaman kullanım dışı olabilir._
 
-_Not 2: openload.co sitesi Türkiye'de erişime engellendiği için kitap indirme aktif değil. Kitaba uygulamanın kendi okuyucusundan erişilebilir._
+_Not 2: openload.co sitesi Türkiye'de erişime engellendiği için kitap indirme şuan aktif değil. Kitaba, uygulamanın kendi okuyucusundan erişilebilir._
 
-Uygulama kitaplık, favoriler, kütüphane ve kitap okuyucular olmak üzere dört fragmentten oluşuyor.
-Kitaplık ve favoriler takip edilen kitapların takip edilebildiği alanlardır.
-Kitaplık, sunucuda barındırılan tüm kitapların listelendiği alandır. Kitap okuyucular, Google Play'de bulunan popüler kitap okuyucuların listelendiği alandır.
+Uygulamanın ana activity'si kitaplık, favoriler, kütüphane ve kitap okuyucular olmak üzere dört fragmentten oluşuyor.
+Kitaplık ve favoriler, kullanıcının istediği kitapları takip edebildiği alanlardır.
+Kütüphane, sunucuda barındırılan tüm kitapların listelendiği alandır.
+Kitap okuyucular, Google Play'de bulunan popüler ve kullanışlı kitap okuyucuların listelendiği alandır.
 
 Kullanıcı, kitabı indirebilir veya indirmeden uygulamanın kendi kitap okuyucusuyla kitabı okuyabilir.
 
-Kitap okuyucusunun özellikleri :
+Kitap okuyucusunun şu anki özellikleri :
 
 * **1.** Aydınlık ve karanlık tema
 * **2.** TTS (Text-to-speech)
 * **3.** Yatay sayfa çevirme animasyonu
 * **4.** Yatay hızlı sayfa kaydırma
 * **5.** Yatay hızlı sayfa kaydırmadan öncesindeki sayfaya geri dönebilme
-* **6.** Kaldığın yerden okumaya devam edebilme
+* **6.** En son kaldığın yerden okumaya devam edebilme
 
 ![alt text](https://1.bp.blogspot.com/-MeTx12zkkKk/Wpr4XtYwlQI/AAAAAAAAAII/Exwsr_k_EHAAtR95NYP36Y1vA7-OP4O6QCLcBGAs/s320/1.png)
 ![alt text](https://1.bp.blogspot.com/-Iw2HFO5qLFs/Wpr4rdx3q1I/AAAAAAAAAIk/vF_IR6j1ARkJ57qwgJEkypeaSwi7FQn2gCLcBGAs/s320/2.png)
